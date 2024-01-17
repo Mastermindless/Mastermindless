@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Martin @Mastermindless
 - 👀 I’m interested in OMICS data analysis: transcriptomics, proteomics, name it!
 - 🌱 I never stopped learning human and bacterial genomics.
-- 💞️ I’m looking to collaborate on HT longread MAC assembly and funcitional analysis.
+- 💞️ I’m looking to collaborate on HT longread MAC assembly and functional analysis.
 - 📫 How to reach me email: schwill84(at)icloud(dot)com
 <!---
 Mastermindless/Mastermindless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
