@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martin @Mastermindless
-- 👀 I’m interested in OMICS data analysis: Transcriptomics, Proteomics, name it
-- 🌱 I’m currently learning cancer and bacterial genomics.
+- 👀 I’m interested in OMICS data analysis: transcriptomics, proteomics, name it!
+- 🌱 I’m never stopped learning human and bacterial genomics.
 - 💞️ I’m looking to collaborate on HT longread MAC assembly and funcitional analysis.
 - 📫 How to reach me email: schwill84(at)icloud(dot)com
 <!---
