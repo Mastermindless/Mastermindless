@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Martin @Mastermindless
-- 👀 I’m interested in science data analysis: transcriptomics, proteomics, name it omics!
-- 📫 How to reach me email: schwill84 (at) gmail (dot) com
+- I am resident Bioinformatician and Scientist at University of Zurich/ETHZ/Wyss Institute in Recolony.
 
 <!---
 Mastermindless/Mastermindless is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
