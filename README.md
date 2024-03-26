@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin @Mastermindless
-- I am resident Bioinformatician and Scientist at University of Zurich, ETHZ, Wyss Institute in Recolony.
+- I am resident Bioinformatician and Scientist at Recolony, Wyss Zurich Institute from University of Zurich and ETH Zurich.
 
         \                            /
          \                          /
