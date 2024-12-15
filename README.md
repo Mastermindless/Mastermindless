@@ -1,6 +1,6 @@
 🧬 Director, Bioinformatics & AI - Portfolio
 
-Welcome to my portfolio repository! I’m Dr. Martin Schwill, a computational biologist and AI specialist with over a decade of experience in bioinformatics, multi-omics integration, and AI-driven drug discovery. My passion lies in leveraging data science to solve complex challenges in pre-clinical research and translational medicine.
+Welcome to my portfolio repository! I’m Dr. Martin Schwill, a computational biochemist and AI specialist with over a decade of experience in biochemistry, bioinformatics, multi-omics integration, structural biology, transcriptomics (scRNASeq) and AI-driven drug discovery. My passion lies in leveraging data science to solve complex challenges in pre-clinical research and translational medicine.
 
 
 🚀 Expertise at a Glance
