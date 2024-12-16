@@ -22,7 +22,7 @@ TOLREMO Therapeutics AG
 Advanced the small molecule drug TT125-802 to FDA IND application.
 
 • Academic Foundations
-PhD in Biochemistry (UZH) | Postdoc at MIT’s Koch Institute
+PhD in Biochemistry (UZH) | Collab MIT Koch Institute | Cancer Research 
 Focus on protein engineering, systems biology, and multi-omics analysis.
 
 
