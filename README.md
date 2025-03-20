@@ -14,11 +14,11 @@ Welcome to my portfolio repository! I’m Dr. Martin Schwill, a computational bi
 🌟 Career Highlights
 
 • Head of AI, Bioinformatics & CADD
-Adularia (Wyss Zurich, ETH/UZH)
+ADULARIA (Wyss Zurich, ETH/UZH)
 Lead cutting-edge AI and data-driven projects in CADD and bioinformatics, enhancing precision in oncology treatments.
 
 • Bioinformatician & Scientist
-Recolony (Wyss Zurich, ETH/UZH)
+RECOLONY (Wyss Zurich, ETH/UZH)
 Driving multi-disciplinary projects in cancer research using AI and multi-omics analytics.
 
 • Bioinformatician & Scientist
